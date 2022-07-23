@@ -12,7 +12,7 @@ topics:
   - Notifications
   - Accounts
 children:
-  - /hello-world
+  - /hello-world-i am-back
   - /set-up-git
   - /create-a-repo
   - /fork-a-repo
